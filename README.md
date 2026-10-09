@@ -7,7 +7,8 @@ A small, bilingual Hindi-English augmentative and alternative communication (AAC
 - Large, touch-friendly communication buttons and a persistent quick-message row for help, stop, yes/no, toilet, drink, food, pain, break, and getting a trusted adult.
 - Topic boards for everyday words, needs, feelings, people, school, play, body/health, social communication, and personal buttons.
 - Hindi/English interface toggle with example spoken phrases.
-- A simple message builder: tap starter words and connectors, edit the message, then choose when to speak it.
+- A message builder with editable starter words/connectors plus ready-made phrases for communication repair, choice, boundaries, extra processing time, social participation, and requesting a different explanation.
+- Separate Hindi and English labels and spoken messages for personal buttons, with a fallback if only one language is entered.
 - Local saved messages, custom buttons, speech-rate selection, available device voices, and larger text.
 - Export/import of a JSON backup for personal buttons and saved messages.
 - A basic service worker for offline caching after the first successful load.
@@ -25,7 +26,7 @@ GitHub Pages can host this as a static site from **Settings → Pages → Deploy
 
 - This is a prototype, not a clinically validated AAC system, medical device, diagnostic tool, or replacement for assessment and support by an AAC/SLP team.
 - The child should remain in control of what they communicate. Adults should personalise vocabulary with the child, respect refusals, and never require speech output as proof of communication.
-- The starter phrases and word combinations are examples, not a grammar engine. Review the editable message before speaking.
+- Ready-made phrases and word combinations are examples, not a grammar engine or a language assessment. Review and personalise messages with the child before use; Hindi forms may need adaptation for the child's preferred dialect, identity, and grammar.
 - Speech output depends on browser support and voices installed on the device; pronunciation, language switching, volume, and latency vary by device. Always test on the actual device.
 - The app does not call emergency services, contact caregivers, or guarantee audio routing to Bluetooth devices or hearing aids. Keep a reliable, accessible way to reach a trusted adult.
 - Emoji are placeholders and may be ambiguous or display differently. Replace them with familiar, culturally appropriate, licensed symbols/photos following the child's preferences and access needs.
