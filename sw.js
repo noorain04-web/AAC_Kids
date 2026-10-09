@@ -1,4 +1,4 @@
-const CACHE_NAME = "hearlink-aac-kids-v1";
+const CACHE_NAME = "hearlink-aac-kids-v2";
 const APP_SHELL = ["./", "./index.html", "./manifest.json"];
 
 self.addEventListener("install", event => {
