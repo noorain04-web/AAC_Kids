@@ -1,0 +1,11 @@
+{
+  "name": "HearLink AAC — Pediatric",
+  "short_name": "HearLink Kids",
+  "description": "Bilingual Hindi-English communication support prototype for children",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f8ff",
+  "theme_color": "#f5f8ff",
+  "lang": "en"
+}
